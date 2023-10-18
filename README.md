@@ -12,7 +12,7 @@ To run this project on your own, follow these steps:
 2. Create a virtual environment using `python -m venv venv`.
 3. Install the necessary dependencies using `pip install -r requirements.txt`.
 
-**You can download GLOVE 6B 50D Word Embeddings from [kaggle](https://www.kaggle.com/datasets/adityajn105/glove6b50d)
+**You can download GLOVE 6B 50D Word Embeddings from [kaggle](https://www.kaggle.com/datasets/adityajn105/glove6b50d)**
 
 Feel free to explore the code and adapt it to your own projects. Enjoy your NLP journey!
 
